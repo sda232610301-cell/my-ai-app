@@ -1,0 +1,6 @@
+{
+  "name": "MEAL MATE",
+  "description": "중학교 학생들을 위한 즐거운 급식 커뮤니티 앱. 급식판 UI를 통해 급식 메뉴 월드컵, 이달의 메뉴 투표, 오늘의 급식 후기 및 별점 매기기를 즐겨보세요!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
